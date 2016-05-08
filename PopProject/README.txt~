@@ -1,0 +1,13 @@
+A Project on 'Multiple Face Emotion Recognition'
+
+Team Members : 1. Divija Nagaraju -14IT112
+	       2. Mukta Kulkarni -14IT220
+	       3. Pooja Soundalgekar -14IT230
+	       4. Yogitha A N -14IT251
+
+How to Execute the project application :
+
+1. Install openCv 2.4.9
+2. Install numpy and csv
+3. Move to code folder - cd code
+4. Run main.py (python main.py)
